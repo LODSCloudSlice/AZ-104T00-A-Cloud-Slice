@@ -11,18 +11,19 @@ assignees: ''
 
 *Describe lab issue identified.*
 
+---
+
 # Issue Location
 
-**Module (lab #):**
-**Exercise #:**
-**Task #:**
-**Step(s) #(s):**
-
+**Lab\Module Name:**
+**Lab\Module Number:**
+**Exercise Number:**
+**Task Number:**
+**Step Number:**
+---
 
 # Issue Screenshot (if applicable):
 
+---
 
-
-
-
-**Additional Information:**
+# Additional Information:
