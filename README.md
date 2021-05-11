@@ -1,1 +1,1 @@
-# AZ-104T00-A-Microsoft-Azure-Administrator-No-Azure-Pass-Required-
+#Az-104 CS Issue log yada yada
