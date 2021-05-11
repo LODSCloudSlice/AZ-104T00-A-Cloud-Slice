@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-#Issue Details
+# Issue Details
 
 *Describe lab issue identified.*
 
-#Issue Location
+# Issue Location
 
 **Module (lab #):**
 **Exercise #:**
@@ -19,7 +19,7 @@ assignees: ''
 **Step(s) #(s):**
 
 
-#Issue Screenshot (if applicable):
+# Issue Screenshot (if applicable):
 
 
 
