@@ -1,7 +1,7 @@
 ---
 name: Cloud Slice Issue Log
 about: Describe this issue template's purpose here.
-title: Issue
+title: ''
 labels: ''
 assignees: ''
 
@@ -20,10 +20,11 @@ assignees: ''
 **Exercise Number:**
 **Task Number:**
 **Step Number:**
+
 ---
 
 # Issue Screenshot (if applicable):
 
 ---
 
-# Additional Information:
+## Additional Information:
